@@ -2,7 +2,7 @@ title: Avsee Tv
 desciption: >
   Avsee Tv.
 email: yourusername@gmail.com
-baseurl: "/bobo" # the subpath of your site, e.g. /blog
+baseurl: "/avseetv" # the subpath of your site, e.g. /blog
 #replace nrdybhu1.github.io with your domainname.com
 url: "https://parakazanacam.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
